@@ -1,3 +1,5 @@
+Основное задание: https://github.com/VitalyMozhaev/mnt-homeworks/tree/main/08-ansible-01-base
+
 # Самоконтроль выполненения задания
 
 1. Где расположен файл с `some_fact` из второго пункта задания?
